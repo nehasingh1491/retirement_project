@@ -1,3 +1,5 @@
+//@media screen and (max-width: 481px){
+
 .main-div{
     //background-color:#C2CAD0;
     
@@ -43,6 +45,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 25%;
+  cursor: pointer;
 }
 
 .gift-emoji-class {
@@ -70,6 +73,12 @@
     color: purple;
     font-size: 25px;
     font-family: cursive;
+  }
+
+  .music_head{
+    text-align: center;
+    color: deeppink;
+    font-weight: bold;
   }
 
   

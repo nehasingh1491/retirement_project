@@ -212,6 +212,14 @@ serviceImageObject=[{
   image: 'assets/Service/service_10.jpg',
   thumbImage: 'assets/Service/service_10.jpg',
   //title: 'Example with title.'
+}, {
+  image: 'assets/Service/service_10.jpg',
+  thumbImage: 'assets/Service/service_11.jpg',
+  //title: 'Example with title.'
+}, {
+  image: 'assets/Service/service_10.jpg',
+  thumbImage: 'assets/Service/service_12.jpg',
+  //title: 'Example with title.'
 }];
 
 familyTripImageObject=[{

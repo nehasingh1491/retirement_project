@@ -13,6 +13,18 @@ export class MainSliderComponent implements OnInit {
   }
 
   imageObject = [{
+    image: 'assets/main/papa_mainSlide_7.jpg',
+    thumbImage: 'assets/main/papa_mainSlide_7.jpg',
+    //title: 'Example two with title.'
+}, {
+    image: 'assets/main/papa_mainSlide_8.jpg',
+    thumbImage: 'assets/main/papa_mainSlide_8.jpg',
+    //title: 'Example two with title.'
+}, {
+    image: 'assets/main/papa_mainSlide_6.jpg',
+    thumbImage: 'assets/main/papa_mainSlide_6.jpg',
+    //title: 'Example two with title.'
+} ,{
     image: 'assets/main/papa_mainSlide_5.jpg',
     thumbImage: 'assets/main/papa_mainSlide_5.jpg',
     //title: 'ABC'
@@ -30,10 +42,6 @@ export class MainSliderComponent implements OnInit {
 }, {
     image: 'assets/main/papa_mainSlide_1.jpg',
     thumbImage: 'assets/main/papa_mainSlide_1.jpg'
-}, {
-    image: 'assets/main/papa_mainSlide_6.jpg',
-    thumbImage: 'assets/main/papa_mainSlide_6.jpg',
-    //title: 'Example two with title.'
 }];
 
 }
