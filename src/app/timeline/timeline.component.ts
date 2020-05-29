@@ -303,10 +303,6 @@ euroTripImageObject=[{
   image: 'assets/euro_trip/euroTrip_4.jpg',
   thumbImage: 'assets/euro_trip/euroTrip_4.jpg',
   //title: 'Example with title.'
-}, {
-  image: 'assets/euro_trip/euroTrip_5.jpg',
-  thumbImage: 'assets/euro_trip/euroTrip_5.jpg',
-  //title: 'Example with title.'
 }];
 
 relativesImageObject=[{
